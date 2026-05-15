@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-microservice-boilerplate",
+  "name": "nestjs-typescript-microservice",
   "version": "1.0.0",
   "description": "Production-ready NestJS TCP microservice boilerplate",
   "private": true,

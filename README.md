@@ -1,4 +1,4 @@
-# NestJS Microservice Boilerplate
+# NestJS TypeScript Microservice
 
 A small production-friendly NestJS microservice starter using TCP transport.
 
