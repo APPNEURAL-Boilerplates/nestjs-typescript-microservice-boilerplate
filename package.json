@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-typescript-microservice-boilerplate",
+  "name": "@appneural/nestjs-typescript-microservice-boilerplate",
   "version": "1.0.0",
   "description": "Production-ready NestJS TCP microservice boilerplate",
   "private": true,
